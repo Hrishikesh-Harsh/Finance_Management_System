@@ -6,14 +6,14 @@ PERSONAL FINANCE MANAGEMENT SYSTEM — FinMan
 CONTENTS OF THIS FILE:
 -----------------------
 
-1: Introduction
-2: System Requirements
-3: Installation & Execution
-  3.1: Setup
-  3.2: Input Instructions
-  3.3: Using the Program
-    3.3.1: As an Administrator
-    3.3.2: As a User
+1. Introduction
+2. System Requirements
+3. Installation & Execution
+  3.1. Setup
+  3.2. Input Instructions
+  3.3. Using the Program
+    3.3.1. As an Administrator
+    3.3.2. As a User
 
 ----------------------
 ----------------
