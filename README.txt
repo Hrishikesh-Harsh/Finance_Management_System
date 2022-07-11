@@ -233,6 +233,6 @@ Various operations are performable by the user. They are elaborated in the follo
 | History          | particular account of the user between the two dates entered.   |
 +------------------+-----------------------------------------------------------------+
 
-Note: An registered account must necessarily have a minimum balance of Rs. 1000 at all times. 
+Note: A registered account must necessarily have a minimum balance of Rs. 1000 at all times. 
 
 ----------------------------------------------------------------------------------
